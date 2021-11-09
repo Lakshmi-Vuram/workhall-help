@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>menu</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Home---mobile" transform="translate(-601.000000, -32.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Path" transform="translate(602.000000, 33.000000)">
+                <line x1="0" y1="7.5" x2="18" y2="7.5"></line>
+                <line x1="0" y1="0.576923077" x2="18" y2="0.576923077"></line>
+                <line x1="0" y1="14.4230769" x2="18" y2="14.4230769"></line>
+            </g>
+        </g>
+    </g>
+</svg>

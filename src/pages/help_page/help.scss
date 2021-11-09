@@ -1,0 +1,44 @@
+
+.faq{
+     padding-bottom: 6rem;
+    span{
+        font-weight: bold;
+    }
+    .nav-link {
+        display: block;
+        padding: 0.5rem 1rem;
+        color: $tab-text-color;
+        font-size: 14px;
+        font-weight: 500;
+        text-decoration: none;
+        transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    &:hover{
+        color: $primary-color;
+    }
+    
+    }
+
+}
+.btn-sec{
+    margin-top: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    .line{
+        position: absolute;
+        display: block;
+        border-bottom: 1px $border-color solid;
+        width: 100%;
+        z-index: 0;
+    }
+    button{
+        position: relative;
+        z-index: 2;
+       
+
+    }
+
+
+}
+
